@@ -1,1 +1,3 @@
 # MesaMetrics: Medição e Precificação de Mesas
+Este programa foi desenvolvido em Python e tem como objetivo calcular informações básicas sobre uma mesa, como o volume, a área da superfície e o preço estimado. Ele é projetado para receber as medidas da mesa, como altura, diâmetro e espessura, e fornecer os resultados com base nessas informações.
+O "MesaMetrics: Medição e Precificação de Mesas" é uma ferramenta simples e útil para quem precisa obter informações básicas sobre mesas com base em suas medidas. Ele pode ser adaptado e utilizado em diferentes contextos, como em lojas de móveis, indústrias de fabricação de móveis ou até mesmo por consumidores que desejam ter uma ideia aproximada do preço de uma mesa.
